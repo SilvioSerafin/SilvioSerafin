@@ -25,5 +25,5 @@ Through real workplace case studies, I show how data can unlock efficiency, redu
 ---
 
 ## 📫 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/silvio-cesar-serafin-filho-758111335)
+- [LinkedIn](https://www.linkedin.com/in/silvio-cesar-serafin/)
 - [GitHub Portfolio](https://github.com/SilvioSerafin/silvio-data-portfolio)  
