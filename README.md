@@ -22,21 +22,21 @@ It demonstrates how data strategy can transform visibility, cost control, and de
 - Strategic roadmap for scaling toward Industry 4.0 and beyond  
 
 📄 **Case Study Documents**  
-- [Business Report (Full Write-Up)](Business_report_v1.pdf)  
-- [Business Report – Short Version](Business_report_short_version.pdf)  
-- [Roadmap & ROI Analysis](Roadmap_ROI.pdf)  
-- [Presentation Slides](Presentation.pdf)  
+- [Business Report – Short Version](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/Business_report_short_version.pdf)  
+- [Business Report v2](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/Business_report_v2.pdf)  
+- [Business Report v3](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/Business_report_v3.pdf)  
+- [Roadmap & Barcode Costs](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/roadmap_barcode_costs.pdf)  
 
 📊 **Dashboards**  
-- [Production Tracker (PDF)](company_production_tracker.pdf)  
-- [Download Power BI File (.pbix)](Production_Tracker.pbix)  
-- [Dashboard Screenshot](Dashboard_Screenshot.png)  
+- [Production Tracker (PDF)](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/company_production_tracker.pdf)  
+- [Dashboard Stakeholder (.pbix)](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/dashboard_stakeholder.pbix)  
+- [Dashboard Screenshot](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/productiontracker_fabrico_ss.png)  
 
 🗂️ **Process Diagrams**  
-- [Current vs Future State](Current_vs_Future_Diagram.pdf)  
-- [Workflow Tracking](Workflow_Diagram.pdf)  
-- [Kanban Replenishment](Kanban_Replenishment.pdf)  
-- [Roadmap Gantt Chart](Roadmap_Gantt.pdf)  
+- [Current vs Future Diagram](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/current_vs_future_diagram_v5.drawio.png)  
+- [Workflow Diagram](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/workflow_diagram_v6.drawio.png)  
+- [Kanban Replenishment](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/kanban_replenishment_flow_v2.drawio.png)  
+- [Roadmap Gantt Chart](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/Project_timeline_gantt_v1.png)  
 
 ---
 
