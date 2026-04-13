@@ -1,6 +1,6 @@
 # Hi, I'm Silvio 👋
 
-🔹 **Current Role:** Quality Engineer & Welder · 8+ years in manufacturing
+🔹 Current Role: Welder · Ex-Quality Engineer · 12+ years in manufacturing
 🔹 **Transitioning to:** Data Analyst · SQL Developer · BI Analyst
 🔹 **Studying:** BSc (Hons) Computing Science · Google Data Analyst certified
 🔹 **Core tools:** SQL · Power BI · Excel · Python (learning)
