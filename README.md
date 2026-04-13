@@ -1,57 +1,85 @@
-# Hi, I’m Silvio 👋  
+# Hi, I'm Silvio 👋
 
-🔹 **Current Role:** Fabricator (Manufacturing)  
-🔹 **Future Path:** Aspiring Data & Business Analyst  
-🔹 **Tools:** SQL | Power BI | Excel  
+🔹 **Current Role:** Quality Engineer & Welder · 8+ years in manufacturing
+🔹 **Transitioning to:** Data Analyst · SQL Developer · BI Analyst
+🔹 **Studying:** BSc (Hons) Computing Science · Google Data Analyst certified
+🔹 **Core tools:** SQL · Power BI · Excel · Python (learning)
 
-I’m moving from the shop floor to the data floor.  
-Through hands-on case studies built from my real workplace experience, I show how data can improve efficiency, reduce costs, and support smarter business decisions.  
+I bring 8 years of QE and shop-floor experience to every dataset.
+My manufacturing background isn't a career gap — it's the differentiator.
 
 ---
 
-## 📂 Featured Project  
-### **FabriCo Solutions — Data-Driven Process Improvement**
+## 📂 Featured Projects
 
-My flagship case study, built on real production workflows.  
-It demonstrates how data strategy can transform visibility, cost control, and decision-making in manufacturing.  
+### 🟦 FabriCo Solutions — Data-Driven Process Improvement
 
-🚀 **Highlights**  
-- £90k+/year in potential value identified through workflow tracking & cost analysis  
-- Interactive Power BI dashboards (production tracker, stakeholder view)  
-- Workflow diagrams: current vs. future state, Kanban stock flow, bottleneck mapping  
-- Strategic roadmap for scaling toward Industry 4.0 and beyond  
+My flagship case study, built on real production workflows.
+Demonstrates how data strategy transforms visibility, cost control,
+and decision-making in manufacturing.
 
-📄 **Case Study Documents**  
-- [Business Report – Short Version](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/Business_report_short_version.pdf)  
-- [Business Report v2](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/Business_report_v2.pdf)  
-- [Business Report v3](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/Business_report_v3.pdf)  
-- [Roadmap & Barcode Costs](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/roadmap_barcode_costs.pdf)  
+🚀 **Highlights**
 
-📊 **Dashboards**  
-- [Production Tracker (PDF)](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/company_production_tracker.pdf)  
-- [Dashboard Stakeholder (.pbix)](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/dashboard_stakeholder.pbix)  
-- [Dashboard Screenshot](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/productiontracker_fabrico_ss.png)  
+- £90k+/year in potential value identified through workflow tracking & cost analysis
+- Interactive Power BI dashboards (production tracker, stakeholder view)
+- Process diagrams: current vs. future state, Kanban flow, bottleneck mapping
+- Strategic roadmap for Industry 4.0 transition with implementation timeline
 
-🗂️ **Process Diagrams**  
-- [Current vs Future Diagram](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/current_vs_future_diagram_v5.drawio.png)  
+📊 **Dashboards**
+
+- [Production Tracker (PDF)](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/company_production_tracker.pdf)
+- [Dashboard Screenshot](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/productiontracker_fabrico_ss.png)
+- [Dashboard Stakeholder (.pbix)](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/dashboard_stakeholder.pbix)
+
+📄 **Case Study**
+
+- [Business Report](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/Business_report_v3.pdf)
+- [Roadmap & Barcode Costs](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/roadmap_barcode_costs.pdf)
+
+🗂️ **Process Diagrams**
+
+- [Current vs Future Diagram](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/current_vs_future_diagram_v5.drawio.png)
 - [Workflow Diagram](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/worflow_diagram_v6.drawio.png)
-- [Kanban Replenishment](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/kanban_replenishment_flow_v2.drawio.png)  
-- [Roadmap Gantt Chart](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/Project_timeline_gantt_v1.png)  
+- [Kanban Replenishment](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/kanban_replenishment_flow_v2.drawio.png)
+- [Roadmap Gantt Chart](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/Project_timeline_gantt_v1.png)
 
 ---
 
-## 🛠 Skills & Focus  
-- **Data Analysis:** SQL, Excel, DAX  
-- **Data Visualization:** Power BI dashboards, automated reporting  
-- **Business Analysis:** Workflow mapping, cost & bottleneck tracking, ROI analysis  
-- **Professional Reporting:** Case studies, process strategy, compliance research  
+### ⚙️ SQL Exercises — Manufacturing Analytics
+🚧 In progress
+
+Hands-on T-SQL practice built around real manufacturing schemas.
+Working through CTEs and window functions with a production_jobs dataset.
+
+- [View SQL folder →](https://github.com/SilvioSerafin/silvio-data-portfolio/tree/main/sql)
+
+**Topics covered so far:** Single CTEs · Aggregations · Defect rate analysis
 
 ---
 
-## 📫 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/silvio-cesar-serafin/)  
-- [GitHub Portfolio](https://github.com/SilvioSerafin/silvio-data-portfolio)  
+### 🔷 Bellabeat SQL Case Study
+*Google Data Analytics capstone project*
+
+- Cleaned and modelled Fitbit data from 33 users using T-SQL views
+- Identified patterns in activity, sleep, and sedentary behaviour
+- [View Case Study](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-bellabeat)
 
 ---
 
-⚡ *This project is under active development. More dashboards, diagrams, and interactive Power BI links will be added as they are published.*  
+## 🛠 Skills & Focus
+
+- **Data Analysis:** SQL (T-SQL, CTEs, window functions), Excel, DAX
+- **Visualisation:** Power BI dashboards, automated reporting
+- **Domain:** Manufacturing QA, workflow mapping, cost & bottleneck analysis, ROI
+- **Other tools:** Git, GitHub, Draw.io, Google Sheets
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/silvio-cesar-serafin-filho-758111335)
+- [GitHub Portfolio](https://github.com/SilvioSerafin/silvio-data-portfolio)
+
+---
+
+⚡ Actively building — SQL exercises and a supply chain analytics project are in progress. Updated regularly.
