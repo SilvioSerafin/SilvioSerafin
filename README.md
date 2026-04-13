@@ -1,12 +1,12 @@
 # Hi, I'm Silvio 👋
 
-🔹 Current Role: Welder · Ex-Quality Engineer · 12+ years in manufacturing
+🔹 **Current Role:** Welder · Ex-Quality Engineer · 12+ years in manufacturing
 🔹 **Transitioning to:** Data Analyst · SQL Developer · BI Analyst
 🔹 **Studying:** BSc (Hons) Computing Science · Google Data Analyst certified
 🔹 **Core tools:** SQL · Power BI · Excel · Python (learning)
 
-I bring 8 years of QE and shop-floor experience to every dataset.
-My manufacturing background isn't a career gap — it's the differentiator.
+I bring 12 years of QE and shop-floor experience to every dataset.
+My manufacturing background isn't a career gap. It's what makes the analysis mean something.
 
 ---
 
@@ -43,10 +43,7 @@ and decision-making in manufacturing.
 - [Kanban Replenishment](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/kanban_replenishment_flow_v2.drawio.png)
 - [Roadmap Gantt Chart](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/Project_timeline_gantt_v1.png)
 
----
-
-### ⚙️ SQL Exercises — Manufacturing Analytics
-🚧 In progress
+⚙️ **SQL Exercises — Manufacturing Analytics** 🚧 *In progress*
 
 Hands-on T-SQL practice built around real manufacturing schemas.
 Working through CTEs and window functions with a production_jobs dataset.
