@@ -1,5 +1,4 @@
 # Hi, I'm Silvio 👋
-
 🔹 **Current Role:** Welder · Ex-Quality Engineer · 12+ years in manufacturing
 🔹 **Transitioning to:** Data Analyst · SQL Developer · BI Analyst
 🔹 **Studying:** BSc (Hons) Computing Science · Google Data Analyst certified
@@ -12,42 +11,49 @@ My manufacturing background isn't a career gap. It's what makes the analysis mea
 
 ## 📂 Featured Projects
 
-### 🟦 FabriCo Solutions — Data-Driven Process Improvement
+### 🟩 Highways & Engineering KPI Dashboard
+*Excel operational analytics — modelled on UK local authority performance reporting*
 
+- Built a dynamic 3-sheet Excel workbook tracking 6 KPIs across 12 months
+- KPI Dashboard with RAG status cards, monthly breakdown table and 240 live formulas
+- Trend Analysis with 3 performance charts identifying seasonal patterns and SLA breach risk
+- Written analysis with findings and actionable recommendations
+
+📊 **Project**
+- [View Project →](https://github.com/SilvioSerafin/silvio-data-portfolio/tree/main/excel/highways-kpi-dashboard)
+- [Download Dashboard (.xlsx)](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/excel/highways-kpi-dashboard/Highways_KPI_Dashboard.xlsx)
+
+---
+
+### 🟦 FabriCo Solutions — Data-Driven Process Improvement
 My flagship case study, built on real production workflows.
 Demonstrates how data strategy transforms visibility, cost control,
 and decision-making in manufacturing.
 
 🚀 **Highlights**
-
 - £90k+/year in potential value identified through workflow tracking & cost analysis
 - Interactive Power BI dashboards (production tracker, stakeholder view)
 - Process diagrams: current vs. future state, Kanban flow, bottleneck mapping
 - Strategic roadmap for Industry 4.0 transition with implementation timeline
 
 📊 **Dashboards**
-
 - [Production Tracker (PDF)](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/company_production_tracker.pdf)
 - [Dashboard Screenshot](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/productiontracker_fabrico_ss.png)
 - [Dashboard Stakeholder (.pbix)](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/dashboard_stakeholder.pbix)
 
 📄 **Case Study**
-
 - [Business Report](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/Business_report_v3.pdf)
 - [Roadmap & Barcode Costs](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/roadmap_barcode_costs.pdf)
 
 🗂️ **Process Diagrams**
-
 - [Current vs Future Diagram](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/current_vs_future_diagram_v5.drawio.png)
 - [Workflow Diagram](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/worflow_diagram_v6.drawio.png)
 - [Kanban Replenishment](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/kanban_replenishment_flow_v2.drawio.png)
 - [Roadmap Gantt Chart](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/Project_timeline_gantt_v1.png)
 
 ⚙️ **SQL Exercises — Manufacturing Analytics** 🚧 *In progress*
-
 Hands-on T-SQL practice built around real manufacturing schemas.
 Working through CTEs and window functions with a production_jobs dataset.
-
 - [View SQL folder →](https://github.com/SilvioSerafin/silvio-data-portfolio/tree/main/sql)
 
 **Topics covered so far:** Single CTEs · Aggregations · Defect rate analysis
@@ -56,7 +62,6 @@ Working through CTEs and window functions with a production_jobs dataset.
 
 ### 🔷 Bellabeat SQL Case Study
 *Google Data Analytics capstone project*
-
 - Cleaned and modelled Fitbit data from 33 users using T-SQL views
 - Identified patterns in activity, sleep, and sedentary behaviour
 - [View Case Study](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-bellabeat)
@@ -64,7 +69,6 @@ Working through CTEs and window functions with a production_jobs dataset.
 ---
 
 ## 🛠 Skills & Focus
-
 - **Data Analysis:** SQL (T-SQL, CTEs, window functions), Excel, DAX
 - **Visualisation:** Power BI dashboards, automated reporting
 - **Domain:** Manufacturing QA, workflow mapping, cost & bottleneck analysis, ROI
@@ -73,7 +77,6 @@ Working through CTEs and window functions with a production_jobs dataset.
 ---
 
 ## 📫 Connect with Me
-
 - [LinkedIn](https://www.linkedin.com/in/silvio-cesar-serafin-filho-758111335)
 - [GitHub Portfolio](https://github.com/SilvioSerafin/silvio-data-portfolio)
 
