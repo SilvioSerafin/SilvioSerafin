@@ -1,85 +1,34 @@
-# Hi, I'm Silvio 👋
-🔹 **Current Role:** Welder · Ex-Quality Engineer · 12+ years in manufacturing
-🔹 **Transitioning to:** Data Analyst · SQL Developer · BI Analyst
-🔹 **Studying:** BSc (Hons) Computing Science · Google Data Analyst certified
-🔹 **Core tools:** SQL · Power BI · Excel · Python (learning)
+# Silvio Serafin
 
-I bring 12 years of QE and shop-floor experience to every dataset.
-My manufacturing background isn't a career gap. It's what makes the analysis mean something.
+Quality Engineer (8 years: ISO 9001 implementation, corrective actions, continuous improvement, document control) and hands-on fabricator, building manufacturing analytics with SQL and Power BI.
 
----
+I combine quality engineering and shop floor experience with data skills. I know what a rework spike or a cycle time overrun means in practice, and I use data to show where it comes from.
 
-## 📂 Featured Projects
+* **Studying:** BSc Computer Science (in progress)
+* **Certified:** Google Data Analytics Professional Certificate
+* **Core tools:** SQL (T-SQL), Power BI, Excel, Git. Python (learning)
+* **Quality:** ISO 9001, corrective actions, root cause analysis, continuous improvement, document control, Protheus (TOTVS) ERP
 
-### 🟩 Highways & Engineering KPI Dashboard
-*Excel operational analytics — modelled on UK local authority performance reporting*
+## Featured projects
 
-- Built a dynamic 3-sheet Excel workbook tracking 6 KPIs across 12 months
-- KPI Dashboard with RAG status cards, monthly breakdown table and 240 live formulas
-- Trend Analysis with 3 performance charts identifying seasonal patterns and SLA breach risk
-- Written analysis with findings and actionable recommendations
+### FabriCo: Manufacturing Process Analytics
 
-📊 **Project**
-- [View Project →](https://github.com/SilvioSerafin/silvio-data-portfolio/tree/main/excel/highways-kpi-dashboard)
-- [Download Dashboard (.xlsx)](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/excel/highways-kpi-dashboard/Highways_KPI_Dashboard.xlsx)
+A simulated sheet metal fabrication business with an 8-table SQL Server database, SQL analysis of rework, cycle time overruns and bottlenecks, Power BI dashboards and process diagrams. Currently being rebuilt with NCR tracking, SPC and a fuller dashboard.
 
----
+[View project](https://github.com/SilvioSerafin/silvio-data-portfolio/tree/main/case-study-fabrico)
 
-### 🟦 FabriCo Solutions — Data-Driven Process Improvement
-My flagship case study, built on real production workflows.
-Demonstrates how data strategy transforms visibility, cost control,
-and decision-making in manufacturing.
+### Highways and Engineering KPI Dashboard
 
-🚀 **Highlights**
-- £90k+/year in potential value identified through workflow tracking & cost analysis
-- Interactive Power BI dashboards (production tracker, stakeholder view)
-- Process diagrams: current vs. future state, Kanban flow, bottleneck mapping
-- Strategic roadmap for Industry 4.0 transition with implementation timeline
+An Excel workbook modelled on UK local authority performance reporting: 6 KPIs across 12 months, RAG status cards, trend charts and written recommendations.
 
-📊 **Dashboards**
-- [Production Tracker (PDF)](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/company_production_tracker.pdf)
-- [Dashboard Screenshot](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/productiontracker_fabrico_ss.png)
-- [Dashboard Stakeholder (.pbix)](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/dashboard_stakeholder.pbix)
+[View project](https://github.com/SilvioSerafin/silvio-data-portfolio/tree/main/excel/highways-kpi-dashboard)
 
-📄 **Case Study**
-- [Business Report](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/Business_report_v3.pdf)
-- [Roadmap & Barcode Costs](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/roadmap_barcode_costs.pdf)
+### Bellabeat SQL Case Study
 
-🗂️ **Process Diagrams**
-- [Current vs Future Diagram](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/current_vs_future_diagram_v5.drawio.png)
-- [Workflow Diagram](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/worflow_diagram_v6.drawio.png)
-- [Kanban Replenishment](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/kanban_replenishment_flow_v2.drawio.png)
-- [Roadmap Gantt Chart](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-fabrico/Project_timeline_gantt_v1.png)
+Google Data Analytics capstone: cleaned and modelled Fitbit data from 33 users with T-SQL views, with a Power BI dashboard on activity, sleep and sedentary behaviour.
 
-⚙️ **SQL Exercises — Manufacturing Analytics** 🚧 *In progress*
-Hands-on T-SQL practice built around real manufacturing schemas.
-Working through CTEs and window functions with a production_jobs dataset.
-- [View SQL folder →](https://github.com/SilvioSerafin/silvio-data-portfolio/tree/main/sql)
+[View project](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-bellabeat)
 
-**Topics covered so far:** Single CTEs · Aggregations · Defect rate analysis
+## Connect
 
----
-
-### 🔷 Bellabeat SQL Case Study
-*Google Data Analytics capstone project*
-- Cleaned and modelled Fitbit data from 33 users using T-SQL views
-- Identified patterns in activity, sleep, and sedentary behaviour
-- [View Case Study](https://github.com/SilvioSerafin/silvio-data-portfolio/blob/main/case-study-bellabeat)
-
----
-
-## 🛠 Skills & Focus
-- **Data Analysis:** SQL (T-SQL, CTEs, window functions), Excel, DAX
-- **Visualisation:** Power BI dashboards, automated reporting
-- **Domain:** Manufacturing QA, workflow mapping, cost & bottleneck analysis, ROI
-- **Other tools:** Git, GitHub, Draw.io, Google Sheets
-
----
-
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/silvio-cesar-serafin-filho-758111335)
-- [GitHub Portfolio](https://github.com/SilvioSerafin/silvio-data-portfolio)
-
----
-
-⚡ Actively building — SQL exercises and a supply chain analytics project are in progress. Updated regularly.
+[LinkedIn](https://www.linkedin.com/in/silvio-cesar-serafin-filho-758111335) | [Portfolio repository](https://github.com/SilvioSerafin/silvio-data-portfolio)
